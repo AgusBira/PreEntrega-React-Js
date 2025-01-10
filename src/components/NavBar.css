@@ -1,0 +1,10 @@
+nav{
+    background-color: rgb(191, 139, 239);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+nav img{
+    width: 5%;
+}
