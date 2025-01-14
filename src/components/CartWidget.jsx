@@ -1,8 +1,9 @@
 import cart from "../assets/cart4.svg"
+import "./CartWidget.css"
 export default function cartWidget (){
     return(
         <>
-            <img src={cart} alt="" />
+            <a href="">🛒</a>
         </>
     )
 }
